@@ -47,5 +47,5 @@ libro2.actualiza_pag(301)
 print(f"")
 
 # Mostrar información actualizada
-print("Libro 2 actualizado:")
+print("Libro 2 actualizado: ")
 libro2.info_libro()
